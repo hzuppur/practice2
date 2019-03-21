@@ -14,3 +14,5 @@
 [remote "server"]
 	url = C:/Users/Hain/Documents/server
 	fetch = +refs/heads/*:refs/remotes/server/*
+
+pip-log.txt contains installer logs
